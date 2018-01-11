@@ -1,6 +1,6 @@
 ###To run this project : 
 
-## git clone
+### git clone
 
 ### npm install
 
