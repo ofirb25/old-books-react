@@ -1,7 +1,7 @@
-To run this project : 
+###To run this project : 
 
-- git clone
+## git clone
 
-- npm install
+### npm install
 
-- npm start 
+### npm start 
