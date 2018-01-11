@@ -1,0 +1,86 @@
+[
+	{
+	  "author": "Chinua Achebe",
+	  "imageLink": "images/things-fall-apart.jpg",
+		"title": "things fall apart",
+		"date" : "1960-01-01",
+	  "id": 1
+	},
+	{
+	  "author": "Hans Christian Andersen",
+	  "imageLink": "images/fairy-tales.jpg",
+	  "title": "Fairy tales",
+	  "date": "1836-01-01",
+	  "id": 2
+	},
+	{
+	  "author": "Dante Alighieri",
+	  "imageLink": "images/the-divine-comedy.jpg",
+	  "title": "The Divine Comedy",
+	  "date": "1315-01-01",
+	  "id" : 3
+	},
+	{
+	  "author": "Maureen",
+	  "imageLink": "images/the-epic-of-gilgamesh.jpg",
+	  "title": "The Epic Of Gilgamesh",
+	  "date": "1700-01-01",
+	  "id" : 4
+	},
+	{
+	  "author": "Stephen Mitchell",
+	  "imageLink": "images/the-book-of-job.jpg",
+	  "title": "The Book Of Job",
+	  "date": "1600-01-01",
+	  "id": 5
+	},
+	{
+	  "author": "Geraldine McCaughrean",
+	  "imageLink": "images/one-thousand-and-one-nights.jpg",
+	  "title": "One Thousand and One Nights",
+	  "date": "1200-01-01",
+	  "id" :6
+	},
+	{
+	  "author": "Unknown",
+	  "imageLink": "images/njals-saga.jpg",
+	  "title": "Nj\u00e1l's Saga",
+	  "date": "1900-01-01",
+	  "id" : 7
+	},
+	{
+	  "author": "Jane Austen",
+	  "imageLink": "images/pride-and-prejudice.jpg",
+	  "title": "Pride and Prejudice",
+	  "date": "1813-01-01",
+	  "id" : 8
+	},
+	{
+	  "author": "Honor\u00e9 de Balzac",
+	  "imageLink": "images/le-pere-goriot.jpg",
+	  "title": "Le P\u00e8re Goriot",
+	  "date": "1710-01-01",
+	  "id" : 9
+	},
+	{
+	  "author": "Samuel Beckett",
+	  "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+	  "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+	  "date": "1952-01-01",
+	  "id" : 10
+	},
+	{
+	  "author": "Giovanni Boccaccio",
+	  "imageLink": "images/the-decameron.jpg",
+	  "title": "The Decameron",
+	  "date": "1935-01-01",
+	  "id" : 11
+	},
+	{
+	  "author": "Jorge Luis Borges",
+	  "imageLink": "images/ficciones.jpg",
+	  "title": "Ficciones",
+	  "date": "1965-01-01-",
+	  "id" : 12
+	}
+]
