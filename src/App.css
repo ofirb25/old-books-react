@@ -1,0 +1,51 @@
+/* global CSS file */
+body {
+    padding: 2em 0;
+    background: linear-gradient(to left, #000000, #434343);
+
+}
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
+
+.card {
+    margin: 1em 0;
+    flex-basis: 24%;
+    height: 380px;
+    justify-content: space-between;
+}
+
+.card img {
+    height: 55%;
+}
+
+.card-title {
+    font-size: 1em;
+}
+.card-body {
+    flex:0;
+    max-height:150px;
+}
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-subtitle {
+    font-size: 0.8em;
+    font-style: italic;
+}
+
+@media (max-width:768px) {
+    .card {
+        flex-basis: 48%;
+    }
+}
+
+@media (max-width:425px) {
+    .card {
+        flex-basis: 100%;
+    }
+}
