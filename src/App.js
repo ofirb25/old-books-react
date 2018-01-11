@@ -85,9 +85,7 @@ class App extends Component {
         })
     )
   }
-  filterBookData = (date) => {
-    return new Date(date).getFullYear()
-  }
+
 
   render() {
     var { books } = this.state;
@@ -108,7 +106,6 @@ class App extends Component {
           <div className="cards">
             {books.map(book => {
               book.title = this.filterBookTitle(book.title);
-              book.date = this.filterBookData(book.date)
               return <BookCard key={book.id} book={book}
                 handleEdit={(bookToEdit) => { this.handleBookEdit(bookToEdit) }}
                 handleDelete={(bookId,title) => this.handleDelete(bookId,title)}

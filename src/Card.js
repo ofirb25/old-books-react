@@ -13,7 +13,7 @@ function BookCard(props) {
                 <CardImg top width="100%" src={book.imageLink} alt={book.title} />
                 <CardBody>
                     <CardTitle>{book.title}</CardTitle>
-                    <CardSubtitle>{book.author} - {book.date}</CardSubtitle>
+                    <CardSubtitle>{book.author} - {new Date(book.date).getFullYear()}</CardSubtitle>
                     {/* <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
             {/* <Button>Button</Button> */}
                 </CardBody>
